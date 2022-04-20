@@ -1,0 +1,21 @@
+p {
+	text-transform: uppercase;
+}
+
+code {
+	text-transform: uppercase;
+}
+
+.alert p {
+	visibility: hidden;
+}
+
+.hidden {
+	opacity: 0;
+}
+
+
+.clear-box {
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
